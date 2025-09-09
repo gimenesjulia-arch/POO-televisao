@@ -1,0 +1,15 @@
+/workspaces/POO-televisao/obj/Debug/net8.0/2025-2-POO-Segunda.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO-televisao/obj/Debug/net8.0/2025-2-POO-Segunda.AssemblyInfoInputs.cache
+/workspaces/POO-televisao/obj/Debug/net8.0/2025-2-POO-Segunda.AssemblyInfo.cs
+/workspaces/POO-televisao/obj/Debug/net8.0/2025-2-POO-Segunda.csproj.CoreCompileInputs.cache
+/workspaces/POO-televisao/obj/Debug/net8.0/2025-2-POO-Segunda.sourcelink.json
+/workspaces/POO-televisao/bin/Debug/net8.0/2025-2-POO-Segunda
+/workspaces/POO-televisao/bin/Debug/net8.0/2025-2-POO-Segunda.deps.json
+/workspaces/POO-televisao/bin/Debug/net8.0/2025-2-POO-Segunda.runtimeconfig.json
+/workspaces/POO-televisao/bin/Debug/net8.0/2025-2-POO-Segunda.dll
+/workspaces/POO-televisao/bin/Debug/net8.0/2025-2-POO-Segunda.pdb
+/workspaces/POO-televisao/obj/Debug/net8.0/2025-2-POO-Segunda.dll
+/workspaces/POO-televisao/obj/Debug/net8.0/refint/2025-2-POO-Segunda.dll
+/workspaces/POO-televisao/obj/Debug/net8.0/2025-2-POO-Segunda.pdb
+/workspaces/POO-televisao/obj/Debug/net8.0/2025-2-POO-Segunda.genruntimeconfig.cache
+/workspaces/POO-televisao/obj/Debug/net8.0/ref/2025-2-POO-Segunda.dll

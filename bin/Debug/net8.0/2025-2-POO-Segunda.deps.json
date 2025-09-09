@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2025-2-POO-Segunda/1.0.0": {
+        "runtime": {
+          "2025-2-POO-Segunda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2025-2-POO-Segunda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
